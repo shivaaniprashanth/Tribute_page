@@ -1,0 +1,57 @@
+body
+{
+	background-color: black;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+}
+
+.heading
+{
+	text-align: center;
+	color: white;
+}
+
+.name
+{
+	font-weight: lighter;
+	font-size: 50px;
+}
+
+.about
+{
+	line-height: 0.2;
+}
+
+.image
+{
+	padding-left: 450px;
+}
+
+.timeline
+{
+	padding-left: 250px;
+	padding-right: 200px;
+	padding-top: 100px;
+}
+
+.timeline h4
+{
+	font-size: 20px;
+}
+
+.timeline p
+{
+	font-size: 17px;
+	line-height: 1.5;
+}
+
+footer
+{
+	text-align: center;
+	padding-top: 40px;
+	font-size: 25px;
+}
+
+footer p{
+	font-size: 10px;
+}
